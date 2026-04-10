@@ -36,13 +36,13 @@ One of the more interesting design challenges was handling the China campus, whi
 
 ##  Network Diagram
 
-![Network Diagram](diagrams/network-diagram.png)
+![Network Diagram](diagrams/defense-diagram.png)
 
 ##  Project Files
 
 ⟡ [Network Diagram](diagrams/network-diagram.png)
 
-⟡  [IP Addressing Plan](planning/ip-addressing.xlsx)
+⟡  [IP Addressing Plan](planning/ip-address-cutsheet.xlsx)
 
 ⟡  [Security Policies](docs/security-policies.md)
 
